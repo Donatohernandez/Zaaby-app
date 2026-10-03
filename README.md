@@ -18,7 +18,7 @@
   ·
   <a href="https://www.linkedin.com/in/manuel-donato-hernandez/">LinkedIn</a>
   ·
-  <a href="https://donatohernandez.dev">Portafolio</a>
+  <a href="https://mx.donatohernandez.dev">Portafolio</a>
 </p>
 
 ---
@@ -285,7 +285,7 @@ Próximos objetivos:
 
 Si deseas conocer más sobre la arquitectura, las decisiones técnicas o mi participación en Zaaby:
 
-- **Portafolio:** [donatohernandez.dev](https://donatohernandez.dev)
+- **Portafolio:** [mx.donatohernandez.dev](https://mx.donatohernandez.dev)
 - **LinkedIn:** [manuel-donato-hernandez](https://www.linkedin.com/in/manuel-donato-hernandez/)
 - **GitHub:** [@Donatohernandez](https://github.com/Donatohernandez)
 - **Correo:** [manueldonato9921@gmail.com](mailto:manueldonato9921@gmail.com)
