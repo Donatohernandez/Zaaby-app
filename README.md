@@ -14,6 +14,16 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBzdHJva2U9ImN1cnJlbnRDb2xvciIgZmlsbD0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIyIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY29sb3I9IndoaXRlIiBzdHlsZT0iY29sb3I6d2hpdGUiIGhlaWdodD0iMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTEuMjE3IDE5LjM4NGEzLjUwMSAzLjUwMSAwIDAgMCA2Ljc4MyAtMS4yMTd2LTUuMTY3bC02IC0zLjM1Ij48L3BhdGg%2BPHBhdGggZD0iTTUuMjE0IDE1LjAxNGEzLjUwMSAzLjUwMSAwIDAgMCA0LjQ0NiA1LjI2Nmw0LjM0IC0yLjUzNHYtNi45NDYiPjwvcGF0aD48cGF0aCBkPSJNNiA3LjYzYy0xLjM5MSAtLjIzNiAtMi43ODcgLjM5NSAtMy41MzQgMS42ODlhMy40NzQgMy40NzQgMCAwIDAgMS4yNzEgNC43NDVsNC4yNjMgMi41MTRsNiAtMy4zNDgiPjwvcGF0aD48cGF0aCBkPSJNMTIuNzgzIDQuNjE2YTMuNTAxIDMuNTAxIDAgMCAwIC02Ljc4MyAxLjIxN3Y1LjA2N2w2IDMuNDUiPjwvcGF0aD48cGF0aCBkPSJNMTguNzg2IDguOTg2YTMuNTAxIDMuNTAxIDAgMCAwIC00LjQ0NiAtNS4yNjZsLTQuMzQgMi41MzR2Ni45NDYiPjwvcGF0aD48cGF0aCBkPSJNMTggMTYuMzAyYzEuMzkxIC4yMzYgMi43ODcgLS4zOTUgMy41MzQgLTEuNjg5YTMuNDc0IDMuNDc0IDAgMCAwIC0xLjI3MSAtNC43NDVsLTQuMzA4IC0yLjUxNGwtNS45NTUgMy40MiI%2BPC9wYXRoPjwvc3ZnPg%3D%3D&amp;logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&amp;logo=expo&amp;logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&amp;logo=supabase&amp;logoColor=black" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/RevenueCat-F2545B?style=flat-square&amp;logo=revenuecat&amp;logoColor=white" alt="RevenueCat" />
+</p>
+
+<p align="center">
   <a href="https://zaaby.app">Sitio web</a>
   ·
   <a href="https://www.linkedin.com/in/manuel-donato-hernandez/">LinkedIn</a>
